@@ -1,0 +1,41 @@
+M0190753;The Lion King;118;Drama;3.45;625
+M0190754;Onward;102;Accion;3.75;48
+M0190755;Extraction;116;Drama;3.4;65
+M0190756;Beauty and the Beast;129;Accion;3.55;15
+S07704010101;Dark;Secrets ;51;Misterio;4.1;270
+S07704010102;Dark;Lies;44;Misterio;4.05;451
+S07704010103;Dark;Past and Present;45;Misterio;4.3;362
+S07704010104;Dark;Double Lives ;47;Misterio;4.15;84
+S07704010105;Dark;Truths ;45;Misterio;4.45;319
+S07704010106;Dark;Sic Mundus Creatus Est ;51;Misterio;4.55;327
+S07704010107;Dark;Crossroads;52;Misterio;4.35;374
+S07704010108;Dark;As You Sow, so You Shall Reap ;50;Misterio;4.6;205
+S07704010109;Dark;Everything Is Now;55;Misterio;4.35;226
+S07704010110;Dark;Alpha and Omega;57;Misterio;4.6;133
+S07704010201;Dark;Beginnings and Endings;53;Misterio;4.45;168
+S07704010202;Dark;Dark Matter ;54;Misterio;4.5;292
+S07704010203;Dark;Ghosts;56;Misterio;4.6;476
+S07704010204;Dark;The Travelers;60;Misterio;4.75;88
+S07704010205;Dark;Lost and Found;56;Misterio;4.65;173
+S07704010206;Dark;An Endless Cycle;54;Misterio;4.8;307
+S07704010207;Dark;The White Devil;58;Misterio;4.65;492
+S07704010208;Dark;Endings and Beginnings;57;Misterio;4.75;436
+S07404010101;Stranger Things;Chapter One: The Vanishing of Will Byers;47;Accion;4.3;259
+S07404010102;Stranger Things;Chapter Two: The Weirdo on Maple Street;55;Accion;4.25;305
+S07404010103;Stranger Things;Chapter Three: Holly Jolly;51;Accion;4.45;286
+S07404010104;Stranger Things;Chapter Four: The Body;49;Accion;4.5;215
+S07404010105;Stranger Things;Chapter Five: The Flea and the Acrobat ;52;Accion;4.4;179
+S07404010106;Stranger Things;Chapter Six: The Monster ;46;Accion;4.45;224
+S07404010107;Stranger Things;Chapter Seven: The Bathtub;41;Accion;4.55;489
+S07404010108;Stranger Things;Chapter Eight: The Upside Down;54;Accion;4.7;403
+S07404010201;Stranger Things;Chapter One: MADMAX;48;Accion;4.15;184
+S07404010202;Stranger Things;Chapter Two: Trick or Treat Freak;56;Accion;4.2;113
+S07404010203;Stranger Things;Chapter Three: The Pollywog;51;Accion;4.35;50
+S07404010204;Stranger Things;Chapter Four: Will the Wise;46;Accion;4.35;105
+S07404010205;Stranger Things;Chapter Five: Dig Dug;58;Accion;4.45;220
+S07404010206;Stranger Things;Chapter Six: The Spy;51;Accion;4.6;59
+S07404010207;Stranger Things;Chapter Seven: The Lost Sister;45;Accion;3.05;219
+S07404010208;Stranger Things;Chapter Eight: The Mind Flayer;47;Accion;4.65;421
+S07404010209;Stranger Things;Chapter Nine: The Gate;62;Accion;4.7;163
+M0150756;Contratiempo;106;Misterio;4.3;198
+M0160788;Supercool;119;Comedia;3.15;80

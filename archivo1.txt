@@ -1,0 +1,70 @@
+M0190750;Ad Astra;123;Drama;3.3;48
+M0190751;The Platform;94;Drama;3.5;60
+M0190752;Star Wars: The Rise of Skywalker;142;Accion;3.35;50
+S06508010101;Game of Thrones;Winter is coming;62;Drama;4.55;418
+S06508010102;Game of Thrones;The Kings Road;56;Drama;4.4;341
+S06508010103;Game of Thrones;Lord Snow;58;Drama;4.35;165
+S06508010104;Game of Thrones;Cripples Bastards and Broken Things ;56;Drama;4.4;258
+S06508010105;Game of Thrones;The Wolf and the Lion ;55;Drama;4.55;447
+S06508010106;Game of Thrones;A Golden Crown ;53;Drama;4.6;315
+S06508010107;Game of Thrones;You Win or You Die ;58;Drama;4.6;472
+S06508010108;Game of Thrones;The Pointy End ;59;Drama;4.5;238
+S06508010109;Game of Thrones;Baelor ;57;Drama;4.8;377
+S06508010110;Game of Thrones;Fire and Blood ;53;Drama;4.75;352
+S06508010201;Game of Thrones;The North Remembers;53;Drama;4.4;252
+S06508010202;Game of Thrones;The Night Lands ;54;Drama;4.25;445
+S06508010203;Game of Thrones;What Is Dead May Never Die ;53;Drama;4.4;340
+S06508010204;Game of Thrones;Garden of Bones ;51;Drama;4.4;188
+S06508010205;Game of Thrones;The Ghost of Harrenhal ;55;Drama;4.4;451
+S06508010206;Game of Thrones;The Old Gods and the New;54;Drama;4.55;487
+S06508010207;Game of Thrones;A Man Without Honor ;56;Drama;4.45;170
+S06508010208;Game of Thrones;The Prince of Winterfell ;54;Drama;4.4;476
+S06508010209;Game of Thrones;Blackwater ;55;Drama;4.85;122
+S06508010210;Game of Thrones;Valar Morghulis ;64;Drama;4.7;348
+S06508010301;Game of Thrones;Valar Dohaeris ;55;Drama;4.4;133
+S06508010302;Game of Thrones;Dark Wings Dark Words;56;Drama;4.3;197
+S06508010303;Game of Thrones;Walk of Punishment ;56;Drama;4.45;411
+S06508010304;Game of Thrones;And Now His Watch Is Ended ;53;Drama;4.8;430
+S06508010305;Game of Thrones;Kissed by Fire;57;Drama;4.5;286
+S06508010306;Game of Thrones;The Climb ;53;Drama;4.4;184
+S06508010307;Game of Thrones;The Bear and the Maiden Fair ;58;Drama;4.35;412
+S06508010308;Game of Thrones;Second Sons ;56;Drama;4.5;350
+S06508010309;Game of Thrones;The Rains of Castamere;51;Drama;4.95;478
+S06508010310;Game of Thrones;Mhysa;63;Drama;4.6;105
+S06508010401;Game of Thrones;Two Swords;58;Drama;4.55;352
+S06508010402;Game of Thrones;The Lion and the Rose ;52;Drama;4.85;230
+S06508010403;Game of Thrones;Breaker of Chains ;57;Drama;4.45;202
+S06508010404;Game of Thrones;Oathkeeper ;55;Drama;4.4;177
+S06508010405;Game of Thrones;First of His Name ;53;Drama;4.35;353
+S06508010406;Game of Thrones;The Laws of Gods and Men ;51;Drama;4.85;58
+S06508010407;Game of Thrones;Mockingbird ;51;Drama;4.55;277
+S06508010408;Game of Thrones;The Mountain and the Viper ;52;Drama;4.85;270
+S06508010409;Game of Thrones;The Watchers on the Wall ;51;Drama;4.8;330
+S06508010410;Game of Thrones;The Children ;65;Drama;4.85;482
+S06508010501;Game of Thrones;The Wars to Come;53;Drama;4.25;424
+S06508010502;Game of Thrones;The House of Black and White;56;Drama;4.25;144
+S06508010503;Game of Thrones;High Sparrow;60;Drama;4.25;380
+S06508010504;Game of Thrones;Sons of the Harpy;51;Drama;4.35;467
+S06508010505;Game of Thrones;Kill the Boy;57;Drama;4.3;462
+S06508010506;Game of Thrones;Unbowed Unbent Unbroken;54;Drama;4;434
+S06508010507;Game of Thrones;The Gift;59;Drama;4.5;358
+S06508010508;Game of Thrones;Hardhome;61;Drama;4.95;360
+S06508010509;Game of Thrones;The Dance of Dragons;52;Drama;4.75;252
+S06508010510;Game of Thrones;Mother's Mercy ;60;Drama;4.55;95
+M0190787;¿Qué pasó ayer?;108;Comedia;4.25;375
+M0160755;Los otros;104;Misterio;4.5;101
+S06504010101;La Casa de Papel;Efectuar lo acordado;47;Accion;4.15;150
+S06504010102;La Casa de Papel;Imprudencias letales;41;Accion;4.2;167
+S06504010103;La Casa de Papel;Errar al disparar;50;Accion;4.1;147
+S06504010104;La Casa de Papel;Caballo de Troya;51;Accion;4.15;255
+S06504010105;La Casa de Papel;El día de la marmota;42;Accion;4.2;183
+S06504010106;La Casa de Papel;La cálida Guerra Fría;43;Accion;4.15;400
+S06504010107;La Casa de Papel;Refrigerada inestabilidad;47;Accion;4.2;289
+S06504010108;La Casa de Papel;Tú lo has buscado;43;Accion;4.1;398
+S06504010109;La Casa de Papel;El que la sigue la consigue ;42;Accion;4.35;216
+S06504010201;La Casa de Papel;Se acabaron las máscaras;54;Accion;4.3;170
+S06504010202;La Casa de Papel;La cabeza del plan;42;Accion;4.25;340
+S06504010203;La Casa de Papel;Cuestión de eficacia;43;Accion;4.35;138
+S06504010204;La Casa de Papel;¿Qué hemos hecho?;55;Accion;4.4;77
+S06504010205;La Casa de Papel;A contrarreloj;42;Accion;4.4;446
+S06504010206;La Casa de Papel;Bella ciao ;43;Accion;4.7;450
